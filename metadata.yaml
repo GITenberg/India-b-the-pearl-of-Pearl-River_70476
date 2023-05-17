@@ -1,0 +1,37 @@
+_repo: India-b-the-pearl-of-Pearl-River_70476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southworth, Emma Dorothy Eliza Nevitte
+    aliases:
+    - Nevitt, Dorothy Emma Eliza
+    - Southworth, E. D. E. N.
+    - Southworth, Emma D. E. N.
+    - Southworth, Mrs. E. D. E. N.
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '1307'
+    url: http://www.gutenberg.org/2009/agents/1307
+    wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
+description: ''
+gutenberg_issued: '2023-04-06'
+identifiers:
+  gutenberg: '70476'
+language: en
+pgterms:marc904: https://archive.org/details/indiapearlofpear00soutiala
+pgterms:marc905: 20210223100200southworth
+pgterms:marc906: '1856'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bT. B. Peterson, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Louisiana -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'India : $b the pearl of Pearl River'
+url: http://www.gutenberg.org/ebooks/70476
